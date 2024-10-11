@@ -1,4 +1,4 @@
-make_minimum_required(VERSION 3.0)
+cmake_minimum_required(VERSION 3.0)
 project("rawgl")
 add_executable(rawgl2
 	aifcplayer.cpp     engine.h           graphics_soft.cpp  pak.cpp            resource_3do.h     resource_win31.cpp screenshot.h       staticres.cpp      util.cpp
